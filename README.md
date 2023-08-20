@@ -16,8 +16,7 @@ cd CS50_AI
 ```
 
 # Table of Contents
-- Search
-First week of the course in which you have to do 2 project
+- SEARCH - First week of the course in which you have to do 2 project
    	- Tic-Tac-Toe: Project in which you have to implement [minimax](https://en.wikipedia.org/wiki/Minimax) algorithm. In the end if you did all corectly,you cannot win in the game.
 		Running the game:
 		```bash
